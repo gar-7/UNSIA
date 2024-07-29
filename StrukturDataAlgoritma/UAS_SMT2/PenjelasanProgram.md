@@ -1,3 +1,10 @@
+## Identitas Mahasiswa
+Nama Mahasiswa	: `Aryo Tegar Pradigdo`
+NIM	            : `230401070201`
+Mata Kuliah	    : `Struktur Data dan Algoritma`
+Kelas	        : `IT201`
+Prodi	        : `Informatika PJJ S1`
+
 # Penjelasan Program C++ untuk Mengurutkan Data Menggunakan Bubble Sort dan Selection Sort
 
 ## Struktur Data
