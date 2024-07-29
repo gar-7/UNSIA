@@ -65,18 +65,3 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
 6. Menampilkan hasil pencarian:
     - Jika nilai ditemukan, mencetak semua indeks di mana nilai tersebut ditemukan.
     - Jika nilai tidak ditemukan, mencetak bahwa nilai tersebut tidak ada dalam array.
-
-## Pengujian
-Program ini diuji dengan beberapa nilai untuk memastikan bahwa fungsi pencarian bekerja dengan benar. Berikut adalah beberapa test case:
-
-### Test Case a:
-Input: 1  
-Output: Angka 1 ada di indeks ke 9
-
-### Test Case b:
-Input: 50  
-Output: Angka 50 ada di indeks ke 6 dan 8
-
-### Test Case c:
-Input: 100  
-Output: Angka 100 tidak ada dalam array
