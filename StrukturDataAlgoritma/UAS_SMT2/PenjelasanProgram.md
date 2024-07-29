@@ -30,10 +30,13 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
 6. Memanggil fungsi `selectionSort` untuk mengurutkan salinan data tersebut.
 7. Menampilkan hasil pengurutan menggunakan fungsi `display`.
 
-## Screenshot Kode Program & Output
-![Image](KodeProg1.png)
-![Image](KodeProg2.png)
-![Image](KodeProg3.png)
+## Screenshot Kode Program
+![Image](KodeProg1-1.png)
+![Image](KodeProg1-2.png)
+![Image](KodeProg1-3.png)
+
+## Screenshot Output Program
+![Image](OutputProg1.png)
 
 # Penjelasan Program C++ Pencarian Data dalam Sebuah Kumpulan Array Menggunakan Binary Search
 
