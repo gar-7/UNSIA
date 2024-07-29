@@ -65,7 +65,7 @@ int main() {
     // Menggunakan Selection Sort
     std::vector<Data> selectionSortedData = data;
     selectionSort(selectionSortedData);
-    std::cout << "Hasil Selection Sort:\n";
+    std::cout << "\nHasil Selection Sort:\n";
     display(selectionSortedData);
 
     return 0;
