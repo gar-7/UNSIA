@@ -72,3 +72,10 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
     - Jika nilai ditemukan, mencetak semua indeks di mana nilai tersebut ditemukan.
     - Jika nilai tidak ditemukan, mencetak bahwa nilai tersebut tidak ada dalam array.
 
+## Screenshot Kode Program
+![Image](KodeProg2-1.png)
+![Image](KodeProg2-2.png)
+![Image](KodeProg2-3.png)
+
+## Screenshot Output Program
+![Image](OutputProg2.png)
