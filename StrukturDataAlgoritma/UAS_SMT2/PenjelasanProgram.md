@@ -11,7 +11,7 @@
 Program ini menggunakan struktur data yang disebut `Data`, yang menyimpan dua atribut: `nama` dan `alamat`. Setiap elemen data akan disimpan dalam sebuah vektor.
 
 ## Fungsi Display
-Fungsi `display` bertanggung jawab untuk menampilkan data dalam format tabel dengan dua kolom: Nama dan Alamat. Fungsi ini menerima parameter berupa referensi konstan ke vektor data, memastikan tidak ada perubahan pada data asli saat ditampilkan.
+Fungsi `display` digunakan untuk menampilkan data dalam format tabel dengan dua kolom: Nama dan Alamat. Fungsi ini menerima parameter berupa referensi konstan ke vektor data, memastikan tidak ada perubahan pada data asli saat ditampilkan.
 
 ## Fungsi Bubble Sort
 Fungsi `bubbleSort` mengurutkan data berdasarkan nama menggunakan algoritma Bubble Sort. Algoritma ini bekerja dengan cara:
@@ -51,7 +51,7 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
 Program ini menggunakan dua struktur data: `originalArr` dan `sortedArr`. `originalArr` adalah array asli yang menyimpan elemen-elemen data, sementara `sortedArr` adalah salinan dari array asli yang diurutkan. Kedua array ini disimpan dalam vektor.
 
 ## Fungsi Binary Search
-Fungsi `binarySearch` bertanggung jawab untuk mencari indeks suatu nilai dalam array yang sudah diurutkan menggunakan algoritma Binary Search. Algoritma ini bekerja dengan cara:
+Fungsi `binarySearch` akan mencari indeks suatu nilai dalam array yang sudah diurutkan menggunakan algoritma Binary Search. Algoritma ini bekerja dengan cara:
 1. Menetapkan batas kiri (`l`) dan kanan (`r`) dari pencarian.
 2. Mengiterasi selama batas kiri tidak melebihi batas kanan.
 3. Menghitung nilai tengah (`mid`) dari batas kiri dan kanan.
@@ -62,7 +62,7 @@ Fungsi `binarySearch` bertanggung jawab untuk mencari indeks suatu nilai dalam a
 5. Jika nilai tidak ditemukan, fungsi mengembalikan -1.
 
 ## Fungsi Pencarian Indeks
-Fungsi `findIndices` bertanggung jawab untuk mencari semua indeks dari nilai yang dicari dalam array asli. Fungsi ini bekerja dengan cara:
+Fungsi `findIndices` digunakan untuk mencari semua indeks dari nilai yang dicari dalam array asli. Fungsi ini bekerja dengan cara:
 1. Memanggil fungsi `binarySearch` untuk mencari nilai dalam array yang diurutkan.
 2. Jika nilai ditemukan (`binarySearch` tidak mengembalikan -1), mengiterasi melalui array asli untuk menemukan semua indeks dari nilai tersebut.
 3. Menambahkan indeks-indeks yang ditemukan ke dalam vektor hasil (`indices`) dengan penyesuaian ke format 1-based index.
