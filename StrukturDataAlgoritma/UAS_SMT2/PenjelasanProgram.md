@@ -38,12 +38,12 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
 7. Menampilkan hasil pengurutan menggunakan fungsi `display`.
 
 ## Screenshot Kode Program
-![Image](KodeProg1-1.png)
-![Image](KodeProg1-2.png)
-![Image](KodeProg1-3.png)
+![Image](pic/KodeProg1-1.png)
+![Image](pic/KodeProg1-2.png)
+![Image](pic/KodeProg1-3.png)
 
 ## Screenshot Output Program
-![Image](OutputProg1.png)
+![Image](pic/OutputProg1.png)
 
 # Penjelasan Program C++ Pencarian Data dalam Sebuah Kumpulan Array Menggunakan Binary Search
 
@@ -80,9 +80,9 @@ Fungsi utama (`main`) menjalankan langkah-langkah berikut:
     - Jika nilai tidak ditemukan, mencetak bahwa nilai tersebut tidak ada dalam array.
 
 ## Screenshot Kode Program
-![Image](KodeProg2-1.png)
-![Image](KodeProg2-2.png)
-![Image](KodeProg2-3.png)
+![Image](pic/KodeProg2-1.png)
+![Image](pic/KodeProg2-2.png)
+![Image](pic/KodeProg2-3.png)
 
 ## Screenshot Output Program
-![Image](OutputProg2.png)
+![Image](pic/OutputProg2.png)
